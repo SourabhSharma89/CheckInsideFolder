@@ -1,6 +1,6 @@
 ﻿//START:Changed from Bangalore Team
 var CurrQuestionIndex = 0;
-//END:Changed from Bangalore Team
+//END:Changed from Bangalore
 
 
 $(document).ready(function(){
